@@ -1,5 +1,6 @@
 # 420103
-Repo pour travailler sur le cours de professions informatiques à plusieurs.
+Cours d'introduction aux professions informatiques. L'étudiant définit son projet de formation et son projet professionnel dans un site web statique.
 
 Le site pour le cours se trouve à l'adresse suivante:
-http://jorisdeguet.github.io/420103/
+https://departement-info-cem.github.io/420103/
+
